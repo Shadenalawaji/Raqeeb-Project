@@ -81,7 +81,7 @@ This project was developed as a graduation project using AI and computer vision 
 ---
 
 ## Demo
-Add demo video or screenshots here
+<img width="1536" height="1024" alt="WhatsApp Image 2026-05-11 at 9 05 22 PM" src="https://github.com/user-attachments/assets/9fa4ad88-341d-43ae-96ee-0011bbff523b" />
 
 ---
 
